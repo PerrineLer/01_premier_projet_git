@@ -5,4 +5,10 @@ public class Employee {
 	private String telephone;
 	private String adresse;
 	private int age;
+
+/*
+*constructeur
+*/
+public Employee(){
+}
 }
